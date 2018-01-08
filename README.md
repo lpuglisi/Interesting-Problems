@@ -1,2 +1,2 @@
-# Interesting-Problems
-A collection of interesting problems and solutions using Python, R, and C++
+# Interesting Problems
+Collection of problems and solutions using Python, C++, and R
