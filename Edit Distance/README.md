@@ -1,4 +1,4 @@
-# Edit Distance
+# Edit Distance 
 ## Problem
 Utilize dynamic programming and C++ (Rcpp) to find the edit distance between two strings, along with information about the alignment between the two strings. Specifically, the Rcpp function should take two strings along with two integer costs (one cost for the insertions/deletions and another cost for a mismatch) and output the following:
 1. Edit Distance: Optimal edit distance between string 1 and string 2
