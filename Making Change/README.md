@@ -1,4 +1,4 @@
-# Money Changing
+# Money Changing 
 ## Problem
 Given a total dollar amount give the number of combinations possible to get to that total without any remainder along with the combinations themselves given a set of coin/dollar types (e.g. 0.25, 0.99, 1, 5, 5.37, etc.)
 
